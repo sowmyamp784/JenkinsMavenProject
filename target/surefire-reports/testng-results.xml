@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-15T05:32:14Z" name="Test.NewTest" finished-at="2020-07-15T05:32:35Z" duration-ms="20794">
+    <groups>
+    </groups>
+    <test started-at="2020-07-15T05:32:14Z" name="Command line test" finished-at="2020-07-15T05:32:35Z" duration-ms="20794">
+      <class name="Test.NewTest">
+        <test-method is-config="true" signature="luanchApplication()[pri:0, instance:Test.NewTest@631330c]" started-at="2020-07-15T05:32:14Z" name="luanchApplication" finished-at="2020-07-15T05:32:27Z" duration-ms="13207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- luanchApplication -->
+        <test-method signature="Login()[pri:1, instance:Test.NewTest@631330c]" started-at="2020-07-15T05:32:27Z" name="Login" finished-at="2020-07-15T05:32:33Z" duration-ms="6006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Logout()[pri:2, instance:Test.NewTest@631330c]" started-at="2020-07-15T05:32:33Z" name="Logout" finished-at="2020-07-15T05:32:35Z" duration-ms="1321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:Test.NewTest@631330c]" started-at="2020-07-15T05:32:35Z" name="closeApplication" finished-at="2020-07-15T05:32:35Z" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- Test.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Test.NewTest -->
+</testng-results>
